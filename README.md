@@ -1,2 +1,2 @@
-# thedietettiquette.com
-thedietettiquette.com
+# thedietetiquette.com
+thedietetiquette.com
